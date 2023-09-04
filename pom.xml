@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://localhost:8081/repository/masd/</url>
+	      <url>http://localhost:8081/repository/mad/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:8081/repository/masd2/</url>
+	      <url>http://localhost:8081/repository/mad1/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
